@@ -12,6 +12,6 @@
 
 ---
 
-> It is my time to shine.
+> ʘ‿ʘ. ( •_•)
 
 *Designing information for the stupid and the ungifted.*
