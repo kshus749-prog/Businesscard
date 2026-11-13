@@ -6,7 +6,7 @@
 
 | Field    | Details                                                                     |
 | -------- | --------------------------------------------------------------------------- |
-| Name     | Maximilien-Alphonse-Donatien de Saint-Cyr de Valfleur de la Tour-d'Auvergne |
+| Name     | Someone who needs a hug in the Hug cave |
 | Role     | Information Design Student                                                  |
 | Interest | Visual communication                                                        |
 
